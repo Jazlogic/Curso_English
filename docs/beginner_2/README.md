@@ -221,6 +221,9 @@ Escribe una frase usando la palabra "override" en contexto de programación.
 ### **🔰 Siguiente**
 - [Principiante 3 - Documentación de Programación](../beginner_3/README.md)
 
+### **🤖 Práctica con IA**
+- [**Instrucciones para IA Conversacional**](PRACTICA_IA.md) - Optimiza tu práctica con IA
+
 ## 📖 **Recursos Adicionales**
 
 ### **Construcción de Vocabulario**

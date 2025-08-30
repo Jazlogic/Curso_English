@@ -249,6 +249,9 @@ Escribe una frase simple usando la palabra "loop".
 ### **🔰 Siguiente**
 - [Principiante 2 - Términos Comunes de Programación](../beginner_2/README.md)
 
+### **🤖 Práctica con IA**
+- [**Instrucciones para IA Conversacional**](PRACTICA_IA.md) - Optimiza tu práctica con IA
+
 ## 📖 **Recursos Adicionales**
 
 ### **Práctica de Vocabulario**

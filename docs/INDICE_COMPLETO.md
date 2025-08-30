@@ -59,6 +59,28 @@ Este curso está diseñado específicamente para **hispanohablantes que quieren 
 
 ---
 
+## 🎯 **RECOMENDACIONES DE APRENDIZAJE**
+
+### **📖 Guía de Estrategias de Aprendizaje**
+- **Contenido**: 15 recomendaciones estratégicas para maximizar tu aprendizaje
+- **Enfoque**: Técnicas probadas para acelerar el progreso y mantener la motivación
+- **Incluye**: Plan de acción inmediato, sistema de puntuación y consejos prácticos
+- **Archivo**: [Recomendaciones para Maximizar tu Aprendizaje](RECOMENDACIONES_APRENDIZAJE.md)
+
+### **📋 Resumen Ejecutivo**
+- **Contenido**: Visión general del curso y recomendaciones clave en formato resumido
+- **Enfoque**: Resumen ejecutivo para toma de decisiones rápidas
+- **Incluye**: Estructura del curso, métricas y plan de acción inmediato
+- **Archivo**: [Resumen Ejecutivo](RESUMEN_EJECUTIVO.md)
+
+### **🤖 Índice de Prácticas con IA**
+- **Contenido**: Enlaces directos a todos los archivos de práctica con IA
+- **Enfoque**: Navegación rápida a instrucciones para IA conversacional
+- **Incluye**: 15 archivos con instrucciones específicas por nivel
+- **Archivo**: [Índice de Prácticas con IA](INDICE_PRACTICAS_IA.md)
+
+---
+
 ## 📋 **CONTENIDO COMPLETO POR NIVEL**
 
 ---
@@ -300,6 +322,35 @@ Este curso te ha preparado para:
 
 ### **🟡 Niveles Nativos**
 - [Nativo 1](../native_1/README.md) | [Nativo 2](../native_2/README.md) | [Nativo 3](../native_3/README.md)
+
+---
+
+## 🤖 **PRÁCTICAS CON IA POR NIVEL**
+
+### **🔵 Niveles Principiantes - Práctica con IA**
+- [**Principiante 1 - IA**](../beginner_1/PRACTICA_IA.md) - Instrucciones para IA conversacional
+- [**Principiante 2 - IA**](../beginner_2/PRACTICA_IA.md) - Instrucciones para IA conversacional
+- [**Principiante 3 - IA**](../beginner_3/PRACTICA_IA.md) - Instrucciones para IA conversacional
+
+### **🔶 Niveles Intermedios - Práctica con IA**
+- [**Intermedio 1 - IA**](../intermediate_1/PRACTICA_IA.md) - Instrucciones para IA conversacional
+- [**Intermedio 2 - IA**](../intermediate_2/PRACTICA_IA.md) - Instrucciones para IA conversacional
+- [**Intermedio 3 - IA**](../intermediate_3/PRACTICA_IA.md) - Instrucciones para IA conversacional
+
+### **🔴 Niveles Avanzados - Práctica con IA**
+- [**Avanzado 1 - IA**](../advanced_1/PRACTICA_IA.md) - Instrucciones para IA conversacional
+- [**Avanzado 2 - IA**](../advanced_2/PRACTICA_IA.md) - Instrucciones para IA conversacional
+- [**Avanzado 3 - IA**](../advanced_3/PRACTICA_IA.md) - Instrucciones para IA conversacional
+
+### **🟣 Niveles Expertos - Práctica con IA**
+- [**Experto 1 - IA**](../expert_1/PRACTICA_IA.md) - Instrucciones para IA conversacional
+- [**Experto 2 - IA**](../expert_2/PRACTICA_IA.md) - Instrucciones para IA conversacional
+- [**Experto 3 - IA**](../expert_3/PRACTICA_IA.md) - Instrucciones para IA conversacional
+
+### **🟡 Niveles Nativos - Práctica con IA**
+- [**Nativo 1 - IA**](../native_1/PRACTICA_IA.md) - Instrucciones para IA conversacional
+- [**Nativo 2 - IA**](../native_2/PRACTICA_IA.md) - Instrucciones para IA conversacional
+- [**Nativo 3 - IA**](../native_3/PRACTICA_IA.md) - Instrucciones para IA conversacional
 
 ---
 
