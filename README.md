@@ -191,6 +191,7 @@ Este curso te ha preparado para:
 - [**Todos los Niveles**](docs/INDICE_COMPLETO.md#contenido-completo-por-nivel) - Navegación por nivel
 - [**Todas las Prácticas con IA**](docs/INDICE_COMPLETO.md#prácticas-con-ia-por-nivel) - Instrucciones para IA
 - [**Índice de Prácticas con IA**](docs/INDICE_PRACTICAS_IA.md) - Enlaces directos a todos los archivos de IA
+- [**Índice de Todos los Archivos**](docs/INDICE_TODOS_LOS_ARCHIVOS.md) - Navegación completa del curso
 
 ---
 
