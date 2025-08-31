@@ -1,4 +1,12 @@
-# 🟣 Experto 2 - Computación en la Nube y Arquitecturas Distribuidas
+# 🟣 Experto 2 - Computación en la Nube
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 10: Machine Learning e IA](../expert_1/README.md)
+- **➡️ Siguiente**: [Módulo 12: Seguridad Cibernética](../expert_3/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
 
 ## 📚 **Descripción del Nivel**
 

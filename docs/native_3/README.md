@@ -1,4 +1,12 @@
-# 🟡 Nativo 3 - Liderazgo Global y Visión del Futuro
+# 🟡 Nativo 3 - Liderazgo Global
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 14: Innovación y Futuro](../native_2/README.md)
+- **➡️ Siguiente**: [🏠 Página Principal](../README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
 
 ## 📚 **Descripción del Nivel**
 

@@ -1,4 +1,12 @@
-# 🔶 Intermedio 1 - Revisiones de Código y Discusiones Técnicas
+# 🔶 Intermedio 1 - Revisiones de Código
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 3: Documentación de Programación](../beginner_3/README.md)
+- **➡️ Siguiente**: [Módulo 5: Documentación de API](../intermediate_2/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
 
 ## 📚 **Descripción del Nivel**
 

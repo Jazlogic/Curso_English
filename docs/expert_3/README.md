@@ -1,4 +1,12 @@
-# 🟣 Experto 3 - Seguridad Cibernética y Compliance
+# 🟣 Experto 3 - Seguridad Cibernética
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 11: Computación en la Nube](../expert_2/README.md)
+- **➡️ Siguiente**: [Módulo 13: Liderazgo Ejecutivo](../native_1/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
 
 ## 📚 **Descripción del Nivel**
 

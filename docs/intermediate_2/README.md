@@ -1,4 +1,12 @@
-# 🔶 Intermedio 2 - Documentación de API y Escritura Técnica
+# 🔶 Intermedio 2 - Documentación de API
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 4: Revisiones de Código](../intermediate_1/README.md)
+- **➡️ Siguiente**: [Módulo 6: Comunicación en Equipos](../intermediate_3/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
 
 ## 📚 **Descripción del Nivel**
 

@@ -1,3 +1,13 @@
+# 🔵 Principiante 1 - Fundamentos del Inglés para Programación
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [🏠 Página Principal](../README.md)
+- **➡️ Siguiente**: [Módulo 2: POO y Bases de Datos](../beginner_2/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
+
 # 🔰 Principiante 1 - Vocabulario Básico de Programación y Frases Simples
 
 ## 📚 **Descripción del Nivel**

@@ -1,4 +1,12 @@
-# 🔴 Avanzado 1 - Liderazgo Técnico y Arquitectura
+# 🔴 Avanzado 1 - Liderazgo Técnico
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 6: Comunicación en Equipos](../intermediate_3/README.md)
+- **➡️ Siguiente**: [Módulo 8: Gestión de Proyectos](../advanced_2/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
 
 ## 📚 **Descripción del Nivel**
 

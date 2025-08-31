@@ -1,5 +1,13 @@
 # 🔴 Avanzado 3 - DevOps y Automatización
 
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 8: Gestión de Proyectos](../advanced_2/README.md)
+- **➡️ Siguiente**: [Módulo 10: Machine Learning e IA](../expert_1/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
+
 ## 📚 **Descripción del Nivel**
 
 ¡Bienvenido al tercer nivel avanzado! Ahora aprenderás sobre DevOps, automatización de infraestructura y gestión de entornos de desarrollo. Este nivel te preparará para roles de DevOps Engineer, Site Reliability Engineer y especialista en automatización en organizaciones internacionales.

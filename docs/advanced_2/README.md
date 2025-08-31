@@ -1,4 +1,12 @@
-# 🔴 Avanzado 2 - Gestión de Proyectos y Metodologías Ágiles
+# 🔴 Avanzado 2 - Gestión de Proyectos
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 7: Liderazgo Técnico](../advanced_1/README.md)
+- **➡️ Siguiente**: [Módulo 9: DevOps y Automatización](../advanced_3/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
 
 ## 📚 **Descripción del Nivel**
 

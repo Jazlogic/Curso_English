@@ -1,5 +1,13 @@
 # 🟣 Experto 1 - Machine Learning e Inteligencia Artificial
 
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 9: DevOps y Automatización](../advanced_3/README.md)
+- **➡️ Siguiente**: [Módulo 11: Computación en la Nube](../expert_2/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
+
 ## 📚 **Descripción del Nivel**
 
 ¡Bienvenido al primer nivel experto! Ahora aprenderás sobre machine learning, inteligencia artificial y cómo comunicar conceptos avanzados de IA. Este nivel te preparará para roles de ML Engineer, Data Scientist y especialista en IA en organizaciones internacionales.

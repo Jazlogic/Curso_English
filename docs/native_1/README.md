@@ -1,4 +1,12 @@
-# 🟡 Nativo 1 - Liderazgo Ejecutivo y Estrategia Tecnológica
+# 🟡 Nativo 1 - Liderazgo Ejecutivo
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 12: Seguridad Cibernética](../expert_3/README.md)
+- **➡️ Siguiente**: [Módulo 14: Innovación y Futuro](../native_2/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
 
 ## 📚 **Descripción del Nivel**
 

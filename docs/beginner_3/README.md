@@ -1,4 +1,12 @@
-# 🔰 Principiante 3 - Documentación de Programación e Instrucciones Simples
+# 🔵 Principiante 3 - Documentación de Programación
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 2: POO y Bases de Datos](../beginner_2/README.md)
+- **➡️ Siguiente**: [Módulo 4: Revisiones de Código](../intermediate_1/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
 
 ## 📚 **Descripción del Nivel**
 

@@ -1,4 +1,12 @@
-# 🟡 Nativo 2 - Innovación y Futuro de la Tecnología
+# 🟡 Nativo 2 - Innovación y Futuro
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 13: Liderazgo Ejecutivo](../native_1/README.md)
+- **➡️ Siguiente**: [Módulo 15: Liderazgo Global](../native_3/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
 
 ## 📚 **Descripción del Nivel**
 

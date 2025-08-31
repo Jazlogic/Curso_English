@@ -1,3 +1,13 @@
+# 🔵 Principiante 2 - POO y Bases de Datos
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 1: Fundamentos del Inglés](../beginner_1/README.md)
+- **➡️ Siguiente**: [Módulo 3: Documentación de Programación](../beginner_3/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
+
 # 🔰 Principiante 2 - Términos Comunes de Programación y Conversaciones Básicas
 
 ## 📚 **Descripción del Nivel**

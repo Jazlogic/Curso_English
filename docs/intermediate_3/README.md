@@ -1,4 +1,12 @@
-# 🔶 Intermedio 3 - Comunicación en Equipos Internacionales
+# 🔶 Intermedio 3 - Comunicación en Equipos
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 5: Documentación de API](../intermediate_2/README.md)
+- **➡️ Siguiente**: [Módulo 7: Liderazgo Técnico](../advanced_1/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
 
 ## 📚 **Descripción del Nivel**
 
