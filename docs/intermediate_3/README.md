@@ -300,3 +300,4 @@ Crea y lidera un equipo de desarrollo internacional virtual, coordinando un proy
 ---
 
 **Recuerda**: La comunicación efectiva en equipos internacionales no es solo sobre hablar inglés, sino sobre entender y respetar diferentes culturas, perspectivas y estilos de comunicación. Cada interacción es una oportunidad para aprender y crecer como profesional global.
+

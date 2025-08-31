@@ -292,3 +292,4 @@ Desarrolla e implementa un programa completo de seguridad cibernética para la p
 ---
 
 **Recuerda**: La seguridad cibernética no es solo sobre tecnología, sino sobre proteger el negocio, mantener la confianza del cliente y cumplir con las regulaciones. Tu capacidad para comunicar riesgos de seguridad, justificar inversiones en seguridad y liderar la respuesta a incidentes será clave para la resiliencia de la organización.
+

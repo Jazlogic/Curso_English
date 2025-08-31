@@ -313,3 +313,4 @@ En inglés: 'We will communicate the strategic vision'"
 ---
 
 **¡Excelente progreso! Estás desarrollando habilidades sólidas de liderazgo ejecutivo en inglés.** 🚀
+

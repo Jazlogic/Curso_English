@@ -309,3 +309,4 @@ Gestiona un proyecto completo de desarrollo de plataforma musical (similar a Mus
 ---
 
 **Recuerda**: La gestión de proyectos ágiles no es solo sobre seguir procesos, sino sobre crear valor para el cliente, desarrollar equipos efectivos y adaptarse al cambio. Tu capacidad para comunicar el estado del proyecto, gestionar riesgos y facilitar la colaboración del equipo será clave para el éxito del proyecto.
+

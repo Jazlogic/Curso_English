@@ -296,3 +296,4 @@ Desarrolla e implementa una estrategia tecnológica completa para la plataforma 
 ---
 
 **Recuerda**: El liderazgo ejecutivo no es solo sobre conocimiento técnico, sino sobre visión estratégica, comunicación efectiva y capacidad de inspirar a otros. Tu capacidad para articular una visión tecnológica clara, justificar inversiones estratégicas y liderar transformaciones organizacionales será clave para el éxito de la organización.
+

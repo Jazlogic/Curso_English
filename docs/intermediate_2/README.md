@@ -361,3 +361,4 @@ Crea una documentación completa y profesional para una API de gestión de músi
 ---
 
 **Recuerda**: La documentación técnica es la cara pública de tu código. Una documentación bien escrita puede hacer que tu API sea adoptada por miles de desarrolladores, mientras que una documentación pobre puede hacer que sea ignorada por completo. El inglés técnico es tu herramienta para conectar con desarrolladores de todo el mundo.
+

@@ -290,3 +290,4 @@ Diseña y presenta una arquitectura completa para una plataforma musical global 
 ---
 
 **Recuerda**: El liderazgo técnico no es solo sobre conocimiento técnico, sino sobre comunicación efectiva, toma de decisiones informadas y desarrollo de equipos. Tu capacidad para explicar conceptos complejos en términos simples y alinear objetivos técnicos con objetivos de negocio será clave para tu éxito como líder técnico.
+

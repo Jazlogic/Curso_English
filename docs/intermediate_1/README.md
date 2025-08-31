@@ -240,3 +240,4 @@ Crea un sistema completo de revisión de código con documentación en inglés y
 ---
 
 **Recuerda**: La revisión de código es tanto sobre mejorar el código como sobre mejorar la comunicación del equipo. Cada revisión es una oportunidad para aprender y enseñar, y el inglés técnico es tu herramienta para conectar con desarrolladores de todo el mundo.
+
