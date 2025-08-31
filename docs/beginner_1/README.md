@@ -2,7 +2,7 @@
 
 ## 🧭 Navegación del Curso
 
-- **⬅️ Anterior**: [🏠 Página Principal](../README.md)
+- **⬅️ Anterior**: [🏠 Página Principal](../../README.md)
 - **➡️ Siguiente**: [Módulo 2: POO y Bases de Datos](../beginner_2/README.md)
 - **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
 
